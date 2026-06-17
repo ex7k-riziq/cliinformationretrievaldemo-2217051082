@@ -3,7 +3,10 @@ UAS Temu Kembali Informasi 2026 UNILA
 
 Gantikan 
 folder_path = 'D:/UASTKI/documents'
+
+
 di dalam 
+
 
 folder_path = 'D:/UASTKI/documents'
 docs = []
@@ -14,3 +17,5 @@ for filename in os.listdir(folder_path):
         docs.append(doc)
 
 ke direktori dimana folder documents berada di clone/salinan yang telah diunduh
+
+Presentasi: https://drive.google.com/file/d/1YnbYs4YXkzYd_wo20YJER0PdWsRToTk3/view?usp=sharing
