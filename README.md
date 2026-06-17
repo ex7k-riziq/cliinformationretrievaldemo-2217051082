@@ -1,6 +1,8 @@
 # cliinformationretrievaldemo-2217051082
 UAS Temu Kembali Informasi 2026 UNILA
 
+Tema: Cari kata kunci umum (tidak spesialisasi)
+
 Gantikan 
 folder_path = 'D:/UASTKI/documents'
 
