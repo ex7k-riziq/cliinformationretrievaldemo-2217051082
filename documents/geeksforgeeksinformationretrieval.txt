@@ -1,0 +1,67 @@
+What is information retrieval?
+
+Information Retrieval (IR) helps to find relevant information from large collections of documents. It can be defined as a software program that deals with the organization, storage, retrieval and evaluation of information from documents. It is like a smart librarian who doesn’t give you direct answers but tells you where to find the right book like this IR system scans them and pulls out the ones that match your query.
+
+When you search for something Information Retrieval (IR) model helps find the most relevant documents and ranks them based on your query. It works by comparing your query with documents in the system using a matching function. This function gives each document a retrieval status value (RSV) which helps rank the most relevant results first. To do this IR systems represent documents using descriptors i.e most important keywords from vocabulary (V).
+
+Estimation of the probability of user’s relevance rel for each document d and query q with respect to a set R q of training documents: 
+Prob
+(
+rel
+∣
+d
+,
+q
+,
+R
+q
+)
+Prob(rel∣d,q,R 
+q
+​
+ )
+
+Components of Information Retrieval/ IR Model
+The Information Retrieval (IR) model can be broken down into key components that involve both the system and the user. Here’s how it works in a simple flow:
+
+Click to enlarge
+1. User Side (Search Process)
+Problem Identification: A student wants to learn about machine learning and types a query into a search engine.
+Representation: The user converts their need into a search query using keywords or phrases like instead of asking "How do machines learn?" the student types "machine learning basics" into Google and the problem is converted into a query (keywords or phrases).
+Query: The user submits the search query into IR system.
+Feedback: User can refine or modify the search based on the retrieved results.
+2. System Side (Retrieval Process)
+Acquisition: The system collects and stores a large number of documents or data sources. It can includes web pages, books, research papers or any text-based information.
+Representation: Each document in the system is analyzed and represented in a structured way using keywords (terms). Example: If the document talks about "machine learning" it is tagged with relevant terms like "AI, deep learning, algorithms, models" to help retrieval.
+File Organization: The documents are indexed and stored efficiently so the system can quickly find relevant ones. Like organizing a library so books can be found easily based on topics.
+Matching: The system compares the user's search query with stored documents to find the best matches. It uses matching functions that rank documents based on relevance.
+Retrieved Object: The system returns the most relevant documents to the user. These documents are ranked so the most useful ones appear at the top.
+3. Interaction Between User & System
+The user reviews the retrieved results and may provide feedback to refine the search. The system then processes the updated query and retrieves better results.
+Click to enlarge
+
+Acquisition: In this step the selection of documents and other objects from various web resources that consist of text-based documents takes place. The required data is collected by web crawlers and stored in the database.
+Representation: It consists of indexing that contains free-text terms, controlled vocabulary, manual and automatic techniques as well. Example: Abstracting contains summarizing and Bibliographic description that contains author, title, sources, data and metadata.
+File Organization: There are two types of file organization methods. i.e. Sequential that contains documents by document data and Inverted: that contains list of records under each term.
+Query: An IR process starts when a user enters a query into the system. Queries are formal statements of information needs. For example, search strings in web search engines. In IR a query does not uniquely identify a single object in the collection. Instead several objects may match the query, perhaps with different degrees of relevancy.
+Difference Between Information Retrieval and Data Retrieval
+Information Retrieval	Data Retrieval
+The software program that deals with the organization, storage, retrieval and evaluation of information from document repositories particularly textual information.	Data retrieval deals with obtaining data from a database management system such as ODBMS. It is A process of identifying and retrieving the data from the database based on the query provided by user or application.
+Retrieves information about a subject.	Determines the keywords in the user query and retrieves the data.
+Small errors are likely to go unnoticed.	A single error object means total failure.
+Not always well structured and is semantically ambiguous.	Has a well-defined structure and semantics.
+Does not provide a solution to the user of the database system.	Provides solutions to the user of the database system.
+The results obtained are approximate matches.	The results obtained are exact matches.
+Results are ordered by relevance.	Results are unordered by relevance.
+It is a probabilistic model.	It is a deterministic model.
+Advantages of Information Retrieval
+Efficient Access: Information retrieval techniques make it possible for users to easily locate and retrieve vast amounts of data or information.
+Personalization of Results: User profiling and personalization techniques are used to tailor search results to individual preferences and behaviors.
+Scalability: They are capable of handling increasing data volumes.
+Precision: These systems can provide highly accurate and relevant search results and reducing the likelihood of irrelevant information appearing in search results.
+Disadvantages of Information Retrieval
+Information Overload: When a lot of information is available users often face information overload making it difficult to find most useful and relevant material.
+Lack of Context: They may fail to understand the context of a user's query leading to inaccurate results.
+Privacy and Security Concerns: They often access sensitive user data that can raise privacy and security concerns.
+Maintenance Challenges: Keeping these systems up-to-date and effective requires a lot of efforts including regular updates, data cleaning and algorithm adjustments.
+Bias and fairness: Ensure that systems do not exhibit biases and provide fair and unbiased results.

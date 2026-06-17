@@ -1,0 +1,703 @@
+6/17 S15 The Grand Venture Version Update Announcement
+
+Hi there,
+
+A non-disruptive global server update is planned for 6/17 at 00:00–01:00 (UTC±0).
+
+ 
+
+Update Time:
+
+6/17 from 00:00–01:00 (UTC±0)
+
+The game will begin the season data maintenance 1.5 hours before the update. During this period, players cannot play ranked/Peak Tournament matches. Matches that begin before this will not be affected.
+
+ 
+
+After the update has been launched, players can manually choose whether they want to install it. Players who did not update the game can still play, but will be unable to join Ranked/Peak Tournament matches or form premades with players who did install the update.
+
+
+
+
+Update Scope: All servers
+
+
+Update Method: Live server update
+
+ 
+
+Update Content
+
+1. The new season 15, The Grand Venture, will officially launch on 6/17.
+
+2. Four new heroes—Thunderous Deep: Devara, Gentle Blade: Florentino, Nightmare Incarnate: Lorion, and Diviner: Annette have arrived!
+
+3. A new Mythic skin, Avant-Garde Director Yaria, is here. Point Draw discounts are coming!
+
+4. Hero Balance Adjustments:
+
+a) Mechanics Upgraded: Sima Yi and Li Xin
+
+b) Stats Buffed: Lian Po, Ming, Zhuangzi, and Augran
+
+c) Stats Nerfed: Pei and Nezha
+
+
+
+
+New Heroes Have Arrived
+A new hero, Thunderous Deep: Devara, is here. In addition, three heroes—Gentle Blade: Florentino, Nightmare Incarnate: Lorion, and Diviner: Annette—have crossed dimensions and arrived in Hero's Gorge.
+
+
+
+
+Battlefield
+Balance Updates
+
+- The true damage value of the Crimson Golem's buff has been adjusted, with the minimum value slightly reduced.
+
+- New tower destruction slow effect: When a tower is destroyed, nearby enemies will be slowed.
+
+- The Teleportation Portal cooldown has been reduced from 45s to 30s.
+
+
+
+
+Performance Improvements
+
+- A new lizard platform return effect has also been added to the jungle.
+
+
+
+
+Season Game Mode Adjustments
+New Season Passive Effect (Dig It)
+
+Triggered every 60 seconds, Spriteling will dig up something next to the player.
+
+Dig up random effects (Gold and more)!
+
+This passive will be removed after 10 minutes into a match.
+
+
+
+
+Bounty Match
+A special season of Bounty Gauntlet is here!
+
+1. Season Duration: 7/02–7/26 (available for four weekends during the event)
+
+2. The Bounty Gauntlet is divided into three levels: Standard, Advanced, and Elite. Winning it guarantees a Championship-limited treasure and a random treasure. The value of the treasure is strongly correlated with the level of the Bounty Gauntlet.
+
+i) Standard Championship: Tickets are free, and the value of the treasures is relatively low.
+
+ii) Advanced Championship: Purchase tickets using event currency from The Grand Venture event. The rewards are of moderate value.
+
+iii) Elite Championship: Purchase tickets using Tokens. The reward for winning is guaranteed to be far greater than the ticket price, and even if you lose, you will receive a guaranteed return.
+
+3. Tickets cannot be changed after each round. You can play a total of 2 rounds of matches each week and win the Championship a maximum of 2 times.
+
+
+
+
+Super Flow Brawl
+The new version of Super Flow Brawl will launch on 6/27.
+
+Miscellaneous
+
+Talent refresh count: 4 → 6
+
+Talent refresh prioritizes the consumption of Super Flow Coins
+
+Maximum number of talents obtainable in a single match: 4 → 6
+
+
+
+
+Added random start-of-match event
+
+1) Increased starting level
+
+2) Increased respawn speed
+
+3) Increased Movement Speed in the river
+
+4) Reduced skill cooldown
+
+
+
+
+Adjusted or new talent effects
+
+The following is a partial preview:
+
+1) Extra Skills
+
+Vacuity Lock: Hurls a chain hook in the target direction, pulling enemies towards the user and dealing true damage to them.
+
+Winning Strategy: Fires an orb at the target, dealing grievous damage. If a hero is defeated, this skill's cooldown is reduced.
+
+Flash: Flashes a certain distance in the target direction. 20s cooldown.
+
+
+
+
+2) Treasure
+
+Rare Vault: Grants 1 random mid-game talent.
+
+Epic Vault: Grants 2 random early-game talents.
+
+Legendary Vault: Grants 1 random late-game talent.
+
+Mythic Vault: Grants 2 random mid-game talents.
+
+
+
+
+3) Communication
+
+Call the Play: Enhances all teammates when sending a quick chat. 15s cooldown. "Attack" corresponds to Frenzy, "Gather" corresponds to Sprint, and "Retreat" corresponds to Purify.
+
+Mic On: When using the microphone, emits sound waves that deal damage to enemies and heal allies. The higher the microphone volume, the greater the effect.
+
+
+
+
+4) Gold
+
+Healing Fees: When healing or providing a shield for teammates, grants 1 Gold for every 20 Health restored or 50 shield value granted.
+
+Buyback: Usable after being defeated. Consumes 3,000 Gold to instantly resurrect. 60s cooldown.
+
+Pay to Win: When dealing damage, consumes 1% of current Gold to fire an extra projectile at the target. The more Gold consumed, the higher the damage. 1s cooldown.
+
+
+
+
+5) Other New Talents
+
+Shadow Buddy: Summons a Shadow Vanguard that grows alongside you.
+
+Return Fire: Reflects 25% of damage taken.
+
+Speed Incantation: When dealing skill damage, steals target's Movement Speed.
+
+Every Step Counts: Each time a certain distance is traveled, deals damage to nearby enemies.
+
+
+
+
+System Improvements
+UI Upgrades
+
+The event lobby has been comprehensively upgraded! The interface is simpler, and the perks are clearer. Come experience it together!
+
+
+
+
+Spectator Mode Improvements
+
+In the new version, we have improved the layout of the spectator buttons shown after a hero's defeat. Players will now be able to see the relevant buttons more clearly, allowing for more precise selection of a teammate's perspective to spectate.
+
+
+
+
+More Amazing Events
+Time Vault
+
+The Time Vault's Prize Pool has been updated! The current Prize Pool includes the following surprises: Returning skins Book Lovers Dolia and Book Lovers Heino, and the Feelings on Paper background. The Prize Pool's contents will be updated regularly with subsequent versions, so please stay tuned.
+
+When: 6/19 (UTC±0)
+
+Where: Event Center
+
+
+
+
+Draw
+
+Point Draw is updated with the all-new Mythic skin, Avant-Garde Director Yaria, joining the Point Draw redemption pool. Redeem with one Honor Crystal.
+
+Own Avant-Garde Director Yaria to unlock its exclusive avatar frame and glory-cast. Show off your honor!
+
+
+
+
+Events
+
+Point Draw Discount Event
+
+When: 6/20–6/26 (UTC±0)
+
+What: You can enjoy a 25% discount on Honor Points when participating in the Point Draw. A single draw only requires 45 Honor Points, and a draw ×5 only requires 200 Honor Points.
+
+Where: Point Draw
+
+
+
+
+Log in for Free Limited-Time Tokens + Flowborn Outfit
+
+Log in to get 1,000 Limited-Time Tokens and a new Flowborn outfit.
+
+When: 6/27–6/28 (UTC±0)
+
+What: Log in any day from 6/27–6/28 to claim 1,000 Limited-Time Tokens and a new Flowborn outfit.
+
+ 
+
+Soccer Carnival Season
+
+Stay Active for Free Hero Skins
+
+When: 6/28–7/23 (UTC±0)
+
+What: Log in from 6/28–7/23 and complete Activeness Missions to get skin rewards.
+
+
+
+
+The Grand Venture
+
+When: 6/17–7/26
+
+What: During the event, automatically using skills in the seasonal game mode for both normal and ranked matches will have a chance to trigger Treasure Encounters. Open these Treasure Encounters after the match to get rewards of various rarities!
+
+
+
+
+Consignment Market
+
+What: During the event, players can list tradable items such as skins, Spritelings, Profile backdrops, and more for sale via Shop -> Consignment Market.
+
+1) Tradable items can be obtained by redeeming from Dragon's Hoard, participating in limited-time events, and other activities.
+
+2) Selling items at the Consignment Market allows you to earn a massive amount of Curio Tokens. Curio Tokens can be used to purchase any purchasable skin released before the new season update.
+
+When: 6/17–7/16
+
+
+
+
+Hero Balance Adjustments
+Sima Yi
+
+Skill Mechanics Upgraded
+
+Passive: Quiet Whispers
+
+Effect adjustment: Sima Yi gains vision of skill users within a range of 2,000 and 10 Shadow Force (Max: 50–100). After using the skill, Sima Yi condenses Shadow Force into a scythe, gaining an enhanced Basic Attack and 20–40 Movement Speed for 5s. Using the enhanced Basic Attack consumes all Shadow Force. For every 20 Shadow Force consumed, the enhanced Basic Attack's range increases by 3%. Each scythe strike deals 230–460 (+46% Magical Attack) magical damage and true damage equal to the Shadow Power. The first attack after summoning the scythe allows Sima Yi to dash behind the target, dealing 300–600 (+60% Magical Attack) magical damage (true damage is doubled).
+
+Effect improvement: The Energy bar has been removed, and the skill now consumes Mana instead.
+
+First-Hit Damage:
+
+Before: 330–660 (+70% Magical Attack)
+
+Now: 300–600 (+60% Magical Attack)
+
+Skill 1: Shadow Stings
+
+Base Damage:
+
+Before: 100 (+20 per skill level) (+20% Magical Attack)
+
+Now: 115 (+23 per skill level) (+23% Magical Attack)
+
+Effect Adjustment:
+
+Before: Enters cooldown upon use.
+
+Now: Enters cooldown after skill ends. Removes extra damage against non-hero units.
+
+Skill 2: Barren Lands
+
+Passive Effect Adjustment:
+
+Before: When Sima Yi receives magical damage, 50% of it will be converted into Health within 2s.
+
+Now: When Sima Yi receives magical damage, 25% of it will be converted into Health within 3s. Recovery effect for physical damage will be halved.
+
+New Effect:
+
+The suppression area lasts for 3s. Sima Yi's recovery effect is increased by 10% (+2% per skill level) while within the suppression area.
+
+Cooldown:
+
+Before: 6s (-0.2s per skill level)
+
+Now: 7.5s (-0.3s per skill level)
+
+Base Damage:
+
+Before: 250 (+50 per skill level) (+35% Magical Attack)
+
+Now: 250 (+50 per skill level) (+50% Magical Attack)
+
+Ultimate: Death Descends
+
+New Effect:
+
+If the skill is interrupted, 90% of the cooldown will be returned.
+
+
+
+
+Li Xin
+
+Skill Mechanics Upgraded
+
+Passive: Ashen Razor
+
+New effect: When Li Xin switches from his Standard form to his Domination or Revenge form, he gains full Domination or Revenge Energy (Max: 100). He consumes 10 of the corresponding form's Energy per second. Switching forms clears the current form's Energy and grants (100 - current Energy) of the other type of Energy. Having the corresponding form's Energy increases the corresponding passive effect by 50% (the higher the corresponding form's energy, the greater the increase, up to 100%).
+
+Standard Form:
+
+Skill 1: Lightning Dash
+
+Cooldown: 7s (-0.8s per level) → 6.5s (-0.3s per level)
+
+Skill 2: Chaos Wave
+
+Base damage: 300 (+60 per level) (+100% Physical Attack) → 450 (+90 per level) (+135% extra Physical Attack)
+
+Revenge Form:
+
+Passive: Void Slice
+
+Obtained Movement Speed: 30 → 20–40
+
+Shadow follow-up damage: 65–205 → 75–150 (+24% extra Physical Attack)
+
+Skill 1: Righteous Fervor
+
+New effect: When charging up, Li Xin automatically attacks targets within range, dealing (50% Physical Attack) physical damage each time (every 2 attacks are considered 1 Basic Attack).
+
+Effect adjustment: After charging for at least 1s, gains 40% (+6% per level) Attack Speed for 3s → After charging for 1s, immediately gains 35% (+7% per level) Attack Speed, and gains Attack Speed for 3s after charging ends
+
+Increased Movement Speed: 100 (+10 per level) → 80 (+16 per level)
+
+Cooldown: 10s → 12s (-0.25s per level)
+
+Skill 2: Brutal Gouge
+
+Base damage: 280 (+50 per level) (+80% Physical Attack) → Two instances of damage, each dealing 180 (+36 per level) (+55% extra Physical Attack)
+
+Gouge damage: 90 (+18 per level) → 75 (+15 per level) (+24% extra Physical Attack)
+
+Cooldown: 6.5s (-0.3s per level) → 7s (-0.3s per level)
+
+Skill 3: Shadow Seal
+
+Playability improvement: Can move while casting.
+
+Base damage: 600 (+300 per level) (+120% Physical Attack) → 700 (+350 per level) (+210% extra Physical Attack)
+
+Cooldown: 25s (-5s per level) → 22s (-2s per level)
+
+Transformation duration: 3s (-0.5s per level) → 2s
+
+Ultimate: Force Mastery
+
+Improved Movement Speed during transformation
+
+New effect: Deals 200–400 (+60% extra Physical Attack) physical damage to enemies within range.
+
+Domination Form:
+
+Skill 1: Righteous Charge
+
+Base damage: 50 (+10 per level) (+50% Physical Attack)–150 (+30 per level) (+150% Physical Attack) → 150 (+30 per level) (+50% extra Physical Attack)–450 (+90 per level) (+150% extra Physical Attack)
+
+Skill 2: Blade Flurry
+
+Base damage: 100 (+20 per level) (+150% Physical Attack) → 390 (+78 per level) (+130% extra Physical Attack)
+
+New effect: The speed at which sword energy is unleashed is affected by Attack Speed. The higher the Attack Speed, the faster the sword energy is unleashed.
+
+Skill 3: Searing Edge
+
+Base damage: 150 (+50 per level) (+75% Physical Attack)–450 (+150 per level)(+225% Physical Attack) → 270 (+135 per level) (+90% extra Physical Attack)–810 (+405 per level) (+270% extra Physical Attack)
+
+New effect: Charge speed is affected by Attack Speed. The higher the Attack Speed, the faster the charging.
+
+Ultimate: Force Break
+
+Transformation duration: 3s (-0.5s per level) → 2s
+
+Improved Movement Speed during transformation
+
+New effect: Deals 200–400 (+60% extra Physical Attack) physical damage to enemies within range.
+
+
+
+
+Lian Po
+
+Stats Buffed
+
+Increased skill damage
+
+Skill 1: Burst Ram
+
+Base Damage:
+
+Before: 150 (+30 per skill level) (+3% extra Health)
+
+Now: 55 (+11 per skill level) (+15% extra Physical Attack) + 5% of the enemy hero's max Health as Smash Damage (deals 5% of his own max Health as Smash Damage to non-hero units)
+
+Skill 2: Magma Slam
+
+Base Damage:
+
+Before: 330 (+66 per skill level) (+110% extra Physical Attack)
+
+Now: 350 (+70 per skill level) (+90% extra Physical Attack)
+
+Ultimate: Tremor Smash
+
+First Hammer Strike Damage:
+
+Before: 200 (+100 per skill level) (+5% extra Health)
+
+Now: 220 (+110 per skill level) (+50% extra Physical Attack)
+
+Second Hammer Strike Damage:
+
+Before: 300 (+150 per skill level) (+10% extra Health)
+
+Now: 440 (+220 per skill level) (+100% extra Physical Attack)
+
+Third Hammer Strike Damage:
+
+Before: 500 (+250 per skill level) (+15% extra Health)
+
+Now: 660 (+330 per skill level) (+150% extra Physical Attack) + 10% of the enemy hero's max Health as Smash Damage (deals 10% of his own max Health as Smash Damage to non-hero units)
+
+
+
+
+Ming
+
+Stats Buffed
+
+Increased skill damage
+
+Skill 1: Time - Carefree
+
+New Effect:
+
+When hitting an ally, the effect of increasing the target's main attack stat is increased by an extra 25% (diminishes rapidly over 4 seconds).
+
+Mana Cost:
+
+Before: 50
+
+Now: 40
+
+Cooldown:
+
+Before: 3s
+
+Now: 5s (-0.2s per skill level)
+
+Base Damage:
+
+Before: 25 (+5 per skill level) (+25% Magical Attack)
+
+Now: 30 (+6 per skill level) (+25% Magical Attack)
+
+Skill 2: Mastery - Glide
+
+New Effect:
+
+The effect of reducing the target's Physical and Magical Defense upon hit is increased by an extra 25% (diminishes rapidly over 4 seconds).
+
+Mana Cost:
+
+Before: 50
+
+Now: 40
+
+Cooldown:
+
+Before: 3s
+
+Now: 5s (-0.2s per skill level)
+
+Base Damage:
+
+Before: 25 (+5 per skill level) (+25% Magical Attack)
+
+Now: 30 (+6 per skill level) (+25% Magical Attack)
+
+
+
+
+Zhuangzi
+
+Stats Buffed
+
+Increased skill damage
+
+Passive: Nature's Will
+
+New Effect:
+
+Every 6 seconds, automatically enters a Dreamscape and grants an extra 40–80 (+0.6% extra Health) Health recovery.
+
+Skill 2: Sleep Starts
+
+Cooldown:
+
+Before: 5s (-0.4s per skill level)
+
+Now: 4.5s (-0.18s per skill level)
+
+Base Damage:
+
+Before: 250 (+70 per skill level) (+30% Magical Attack)
+
+Now: 250 (+50 per skill level) (+40% Magical Attack)
+
+Stack Damage:
+
+Before: 125 (+35 per skill level) (+15% Magical Attack)
+
+Now: 125 (+25 per skill level) (+20% Magical Attack)
+
+
+
+
+Augran
+
+Stats Buffed
+
+Upgraded skill effects
+
+Passive: Soul Resonance
+
+On-Hit Effect:
+
+Before: Damage dealt other than the first and last hit have a 40% on-hit effect.
+
+Now: Damage dealt other than the first and last hit have a 50% on-hit effect.
+
+Skill 2: Death's Precipice
+
+New Effect:
+
+The spawn location of the Life-Death Border can be adjusted within a 500–750 range.
+
+Basic Attack Recovery:
+
+Before: 65 (+13 per skill level) (+1.5% extra Health)
+
+Now: 80 (+16 per skill level) (+1.5% extra Health)
+
+
+
+
+Pei
+
+Stats Adjusted
+
+Adjusted skill damage
+
+Passive: Beastly Instincts
+
+Movement Speed Increase:
+
+Before: 30
+
+Now: 25–50
+
+Physical Attack:
+
+Before: 35–70
+
+Now: 25–50
+
+Physical Defense:
+
+Before: 70–140
+
+Now: 60–120
+
+Magical Defense:
+
+Before: 70–140
+
+Now: 60–120
+
+Skill 2: Leaping Tiger Stance
+
+Cooldown Reduction:
+
+Before: 50%
+
+Now: 30%–60%
+
+Skill 3: Tiger Form
+
+Cooldown:
+
+Before: 5.6s (-0.8s per skill level)
+
+Now: 5.4s (-0.6s per skill level)
+
+Enhanced Basic Attack Duration:
+
+Before: 7s
+
+Now: 5s
+
+Ultimate: Human Form
+
+Cooldown:
+
+Before: 5.6s (-0.8s per skill level)
+
+Now: 5.4s (-0.6s per skill level)
+
+Enhanced Basic Attack Duration:
+
+Before: 7s
+
+Now: 5s
+
+
+
+
+Nezha
+
+Stats Adjusted
+
+Adjusted skill effect
+
+Skill 2: Red Armillary Sash - Bind
+
+Cooldown:
+
+Before: 2s (-0.3s per skill level)
+
+Now: 1.5s (-0.1s per skill level)
+
+Skill Use Interval:
+
+Before: 4s (-0.7s per skill level)
+
+Now: 3s (-0.2s per skill level)
+
+Base Damage:
+
+Before: 120 (+40 per skill level) (+75% extra Physical Attack)
+
+Now: 150 (+50 per skill level) (+65% extra Physical Attack)
+
+Fixes and Improvements
+1. Improved the feel of skill combos for multiple heroes, making them feel much smoother.
+2. Chinese voiceover has been added for the following Butterfly skins: Cyberpunk, Sunken Fable, and Rockstar.
+3. Fixed an issue where one hero could not teleport when two heroes were on the Teleportation Portal at the same time.
+4. Fixed an issue where Ata's enhanced Basic Attack after using his Skill 2 would affect the landing point of Bai Qi's Ultimate's leap.

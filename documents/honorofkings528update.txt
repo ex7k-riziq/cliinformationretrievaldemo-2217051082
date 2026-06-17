@@ -1,0 +1,225 @@
+Server Update Announcement - 5/28
+
+Hi there,
+
+A non-disruptive global server update is planned for 5/28 at 00:00–01:00 (UTC±0).
+
+ 
+
+Update Time:
+
+5/28 from 00:00–01:00 (UTC±0)
+
+ 
+
+Update Scope: All servers
+
+ 
+
+This update is around 1 MB. We recommend connecting to a Wi-Fi network before downloading!
+
+ 
+
+Update Method: Live server update
+
+ 
+
+The maintenance will be performed in brief increments during the maintenance period. You can enter the game immediately after maintenance is complete.
+
+ 
+
+Players who are already in a match will be able to play the game normally during maintenance.
+
+ 
+
+Update Content
+
+1. Wukong's Flawless skin, Animitta, will be available for a limited time soon!
+
+2. Kongming's new Stellar Legend skin, Celestial Bloom, has been added to the Star Wish prize pool!
+
+3. Hero Balance Adjustments:
+
+a) Stats Buffed: Luban No.7, Dun, and Daji
+
+b) Stats Nerfed: Han Xin
+
+
+
+
+Super Flow Brawl
+We're currently experiencing some serious issues with the skill "Critically Skillful" and will be temporarily removing it from the game mode. We are working to fix it as soon as possible.
+
+
+
+
+More Amazing Events
+Wukong Flawless Wish
+
+What: Wukong's Flawless skin, Animitta, arrives for the first time for a limited time! Don't miss it. Participate in the event for a chance to get tons of limited personalization items! Claim a Wish Coin upon entering the event for the first time. Stay tuned!
+
+When: 6/05–7/05 (UTC±0)
+
+
+
+
+Star Wish
+
+The Star Wish Prize Pool has been updated! The all-new Stellar Legend skin Celestial Bloom Kongming has been added to the Star Wish prize pool. Players can redeem skins that were previously available in the prize pool from the Redemption Shop.
+
+
+
+
+Sprinkle of Life Shangguan
+
+Eastern winds have thawed the frost, and spring draws near. Shangguan's new skin, Sprinkle of Life, is here!
+
+Event Details:
+
+During the first week from 5/29–6/04, get the skin for just 710 Tokens—that's 20% off! The skin will return to full price in the Shop for a limited time from 6/05–6/27.
+
+Where: Shop -> Skins
+
+
+
+
+Guaranteed Legend Skin in Ten Draws
+
+What: Use Tokens to participate in the draw. All event rewards are guaranteed within 10 draws. You also stand a chance to get the Embroiderer Wang Zhaojun or Cat and Mouse Arthur Legend skins for only 10 Tokens. Come and try your luck!
+
+When: 6/02 (UTC±0)
+
+
+
+
+Hero Balance Adjustments
+Luban No.7:
+
+Stats Buffed
+
+Reduced skill cooldown
+
+Passive: Suppressive Fire
+
+Base Damage:
+
+Before: 50–100 (+4% of target's max Health)
+
+Now: 70–140 (+4.5% of target's max Health)
+
+Skill 1: Blowfish Grenade
+
+Cooldown:
+
+Before: 7s
+
+Now: 7.5s (-0.3s per skill level)
+
+Skill 2: Shark Cannon
+
+Cooldown:
+
+Before: 15s (-1.2s per skill level)
+
+Now: 12s (-0.6s per skill level)
+
+Ultimate: Air Support
+
+Cooldown:
+
+Before: 40s (-10s per skill level)
+
+Now: 35s (-7.5s per skill level)
+
+
+
+
+Xiahou Dun
+
+Stats Buffed
+
+Increased skill damage
+
+Skill 2: Gale's Benediction
+
+Base Damage:
+
+Before: 250 (+50 per skill level) (+80% extra Physical Attack)
+
+Now: 300 (+60 per skill level) (+100% extra Physical Attack)
+
+Enhanced Basic Attack's Extra Damage:
+
+Before: 130 (+26 per skill level) (+40% extra Physical Attack)
+
+Now: 150 (+30 per skill level) (+45% extra Physical Attack)
+
+Skill 3: Unruly Blade
+
+Shortened skill's chain blade throwing cast point animation
+
+
+
+
+Daji
+
+Stats Adjusted
+
+Adjusted skill cooldown
+
+Skill 1: Soul Impact
+
+Cooldown:
+
+Before: 5s
+
+Now: 5s (-0.2s per skill level)
+
+Skill 2: Strike a Pose
+
+Cooldown:
+
+Before: 9s (-0.4s per skill level)
+
+Now: 10s (-0.4s per skill level)
+
+
+
+
+Han Xin:
+
+Stats Adjusted
+
+Adjusted skill damage
+
+Skill 1—Ruthless Assault:
+
+Base Damage:
+
+Before: 350 (+70 per skill level) (+75% extra Physical Attack)
+
+Now: 250 (+50 per skill level) (+85% extra Physical Attack)
+
+Skill 2: Fight or Die!
+
+Extra Damage:
+
+Before: 150 (+30 per skill level) (+50% extra Physical Attack)
+
+Now: 120 (+24 per skill level) (+50% extra Physical Attack)
+
+Cooldown:
+
+Before: 5s
+
+Now: 6s (-0.2s per skill level)
+
+
+
+
+Fixes and Improvements
+1. Fixed an issue where Luban No.7's passive skill's base damage against enemy heroes did not scale with level progression.
+
+2. Fixed an issue in Super Flow Brawl where the stun effect from the ""Dash N' Stun"" talent could interrupt heroes with crowd control immunity.
+
+3. Fixed an issue in Super Flow Brawl where, under certain conditions, Chicha's Basic Attacks dealt no damage while wielding the halberd.
